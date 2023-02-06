@@ -18,7 +18,7 @@ This method returns the number of available rooms for each type (Solo, Duo, Fami
 This method is used to check-in a customer into the hotel.
 ### `viewRent()`
 This method is used to view the rent that a customer needs to pay. It returns the total rent calculated based on the customer's room type and the amount of time they have spent in the hotel.
-### `checkOut():`
+### `checkOut()`
 This method is used to check-out a customer from the hotel. 
 
 ## Contributing
